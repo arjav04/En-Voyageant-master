@@ -1,7 +1,7 @@
 {
   "name": "lightbox2",
   "version": "2.11.3",
-  "author": "Lokesh Dhakar <lokesh.dhakar@gmail.com>",
+  "author": "Arjav Jain",
   "description": "The original Lightbox script. Uses jQuery.",
   "keywords": [
     "lightbox",
@@ -11,15 +11,13 @@
     "slideshow",
     "images"
   ],
-  "homepage": "http://lokeshdhakar.com/projects/lightbox2/",
+  
   "main": "./dist/js/lightbox.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lokesh/lightbox2.git"
+    "url": "https://github.com/arjav04/En-Voyageant-master"
   },
-  "bugs": {
-    "url": "https://github.com/lokesh/lightbox2/issues"
-  },
+ 
   "licenses": [
     {
       "type": "MIT",
